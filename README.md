@@ -21,3 +21,8 @@ Open the project in NetBeans, build it, and run `APIDataFetcher.java`.
 
 ## API
 Official Joke API: https://official-joke-api.appspot.com/random_joke
+## Author
+
+Aarti Kumari
+
+GitHub: https://github.com/Aartikumari635
